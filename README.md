@@ -31,6 +31,7 @@ Awesome list for Hyprland, that includes useful tools and libraries that either 
 - [hyprconf-gen](https://github.com/ufuayk/hyprconf-gen) ![javascript][js] (Lightweight Website for managing Hyprland configs)
 - [Uniconf](https://github.com/dsksnkz/uniconf) ![javascript][js] (Manages hyprland configs in a website)
 - [hyprSettings](https://github.com/acropolis914/hyprsettings) ![typescript][ts] (Hyprland.conf UI manager settings)
+- [arch-agent-skill](https://github.com/IPauloGermano/arch-agent-skill) (Modular AI Agent Skill for Hyprland and Arch Linux desktop configuration and automation)
 
 
 ## Plugins
